@@ -1,0 +1,6 @@
+id=vcam-simplifier
+name=VCam Simplifier
+version=v0.1.0
+versionCode=1
+author=Based on android_virtual_cam | Built with Grok
+ description=Unified installer for android_virtual_cam LSPosed module + VCam Simplifier manager app. One-flash setup for virtual camera spoofing on rooted devices with Magisk + Zygisk + LSPosed. Includes modern UI, on-device FFmpeg processing, automated scope management, and flag file controls. For development/testing/personal use only.
